@@ -1,12 +1,12 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" align="right" width="250" style="margin-left:15px; border-radius:12px;">
+  <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" align="right" width="250" style="margin-left:15px;margin-top:100px; border-radius:12px;z-index: 99999;">
   
-  <div style="text-align: left;text-decoration-line:none">
-    <h1>Mr Cool Cats Organization</h1>
+  <div style="text-align: left;">
+    <h1 style="text-decoration-line:none;z-index: 9999;"">Mr Cool Cats Organization</h1>
   </div>
 
 </div>
-Welcome to **Mr Cool Cats** 🐾
+Welcome to **Mr Cool Cats**
 
 We are a developer-focused organization building creative, fun, and experimental software projects.
 
