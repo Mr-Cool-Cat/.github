@@ -1,10 +1,12 @@
-<div align="justify" >
-  <img src="" alt="">
-  <div align="left">
-      <h1>Mr Cool Cats Organization</h1>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <div style="text-align: left;">
+    <h1>Mr Cool Cats Organization</h1>
   </div>
-</div>
 
+  <img src="" alt="" style="max-width: 200px; height: auto;">
+  
+</div>
 Welcome to **Mr Cool Cats** 🐾
 
 We are a developer-focused organization building creative, fun, and experimental software projects.
