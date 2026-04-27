@@ -3,32 +3,71 @@
 <p align="justify">
   <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" 
        align="right" 
-       width="250" 
-       height="300"
+       width="250"
        style="margin-left:15px; border-radius:12px;" />
 
   Welcome to <strong>Mr Cool Cats</strong>, a developer-focused organization building <strong>creative, fun, and experimental software projects</strong>.
 
   We’re all about exploring new ideas, improving our skills, and collaborating on exciting concepts. Whether it's building interactive apps, experimenting with new technologies, or contributing to open source, we create a space where developers can grow and experiment freely.
-  <br><br>
 </p>
-  <strong>What we’re about:</strong><br>
-  
-  - Creative thinking and bold ideas
-  - Experimentation with new technologies
-  - Hands-on learning through real projects
-  - Collaboration and open source contribution
+
+<br>
+
+<strong>What we’re about:</strong>
+
+- Creative thinking and bold ideas  
+- Experimentation with new technologies  
+- Hands-on learning through real projects  
+- Collaboration and open source contribution  
 
 ---
 
 ## Our Repositories
 
-| Project | Description | Link |
-|-----------|------------------|------------|
-|    Mr Cool Cat Code Editor | Browser-based code editor project | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Cat-Code-Editor) |
-|    Mr Cool Voting Website | Interactive voting / polling web application | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Voting-Website) |
-|    Mr Cool Website | Main website project for the organization | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Website) |
-|    Mr-Cool Blog | Blogging platform / content-based site | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Blog) |
-|    Mr Cool Media | Media-related project (images, assets, or player) | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Media) |
+<p>
+  <img src="./assets/ChatGPT Image Apr 27, 2026, 01_49_59 PM.png" 
+       align="left" 
+       width="250"
+       style="margin-right:15px; border-radius:12px;" />
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mr Cool Cat Code Editor</td>
+      <td>Browser-based code editor project</td>
+      <td><a href="https://github.com/Mr-Cool-Cat/Mr-Cool-Cat-Code-Editor">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>Mr Cool Voting Website</td>
+      <td>Interactive voting / polling web application</td>
+      <td><a href="https://github.com/Mr-Cool-Cat/Mr-Cool-Voting-Website">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>Mr Cool Website</td>
+      <td>Main website project for the organization</td>
+      <td><a href="https://github.com/Mr-Cool-Cat/Mr-Cool-Website">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>Mr-Cool Blog</td>
+      <td>Blogging platform / content-based site</td>
+      <td><a href="https://github.com/Mr-Cool-Cat/Mr-Cool-Blog">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>Mr Cool Media</td>
+      <td>Media-related project (images, assets, or player)</td>
+      <td><a href="https://github.com/Mr-Cool-Cat/Mr-Cool-Media">View Repo</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br clear="both"/>
 
 ---
