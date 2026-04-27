@@ -1,7 +1,7 @@
 # Mr Cool Cats Organization 🐾
 
 <p align="justify">
-  <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" 
+  <img src="./assets/Cat.gif" 
        align="right" 
        width="250"
        style="margin-left:15px; border-radius:12px;" />
