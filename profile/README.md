@@ -1,62 +1,15 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" align="right" width="250" style="margin-left:15px;margin-top:100px; border-radius:12px;z-index: 99999;">
-  
-  <div style="text-align: left;">
-    <h1 style="text-decoration-line:none;z-index: 9999;"">Mr Cool Cats Organization</h1>
-  </div>
+# Mr Cool Cats Organization 
 
-</div>
-Welcome to **Mr Cool Cats**
+<p align="justify">
+  <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" 
+       align="right" 
+       width="250" 
+       style="margin-left:15px; border-radius:12px;" 
+  />
 
-We are a developer-focused organization building creative, fun, and experimental software projects.
+  Welcome to <strong>Mr Cool Cats</strong> a developer-focused organization building <strong>creative, fun, and experimental software projects</strong>.
 
----
-
-## What We Do
-
-- Web Development Projects  
-- Experimental Coding Ideas  
-- Fun & Interactive Applications  
-- Learning-Focused Repositories  
-- Open Source Collaboration  
+  We’re all about exploring new ideas, improving our skills, and collaborating on exciting concepts. Whether it's building interactive apps, testing out new tech, or     contributing to open source, we create a space where developers can grow and experiment freely.
+</p>
 
 ---
-
-## Our Projects
-
-All active and upcoming projects will be hosted in our repositories.
-
-Stay tuned for:
-- Full-stack applications
-- UI/UX experiments
-- Developer tools
-- Creative side projects
-
----
-
-## Mission
-
-To build, learn, and experiment with code in a fun and creative environment while improving real-world development skills.
-
----
-
-## Join the Community
-
-Want to contribute or collaborate?
-
-- Open an Issue
-- Submit a Pull Request
-- Start a Discussion
-
-We welcome all contributors, from beginners to experienced developers.
-
----
-
-## Contact
-
-For questions or collaboration:
-- Use GitHub Discussions or Issues inside repositories
-
----
-
-> “Code. Create. Experiment. Repeat.”
