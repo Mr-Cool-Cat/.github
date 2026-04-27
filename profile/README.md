@@ -10,10 +10,7 @@
   Welcome to <strong>Mr Cool Cats</strong>, a developer-focused organization building <strong>creative, fun, and experimental software projects</strong>.
 
   We’re all about exploring new ideas, improving our skills, and collaborating on exciting concepts. Whether it's building interactive apps, experimenting with new technologies, or contributing to open source, we create a space where developers can grow and experiment freely.
-
   <br><br>
-
-  
 </p>
   <strong>What we’re about:</strong><br>
   
