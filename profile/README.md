@@ -57,7 +57,7 @@
       <td><a href="https://github.com/Mr-Cool-Cat/Mr-Cool-Website">View Repo</a></td>
     </tr>
     <tr>
-      <td>Mr-Cool Blog</td>
+      <td>Mr Cool Blog</td>
       <td>Blogging platform / content-based site</td>
       <td><a href="https://github.com/Mr-Cool-Cat/Mr-Cool-Blog">View Repo</a></td>
     </tr>
