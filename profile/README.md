@@ -35,8 +35,3 @@
 | Mr-Cool-Media | Media-related project (images, assets, or player) | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Media) |
 
 ---
-
-### 🔍 View All Repositories  
-👉 https://github.com/Mr-Cool-Cat
-
----
