@@ -1,4 +1,9 @@
-# Mr Cool Cats Organization
+<div align="justify" >
+  <img src="" alt="">
+  <div align="left">
+      <h1>Mr Cool Cats Organization</h1>
+  </div>
+</div>
 
 Welcome to **Mr Cool Cats** 🐾
 
