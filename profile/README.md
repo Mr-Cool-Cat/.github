@@ -25,7 +25,7 @@
 ## Our Repositories
 
 <p>
-  <img src="./assets/ChatGPT Image Apr 27, 2026, 01_49_59 PM.png" 
+  <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" 
        align="left" 
        width="200"
        height="250"
