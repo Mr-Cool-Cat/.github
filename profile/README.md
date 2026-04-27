@@ -12,12 +12,13 @@
 
   <br><br>
 
-  <strong>What we’re about:</strong><br>
-   Creative thinking and bold ideas<br>
-   Experimentation with new technologies<br>
-   Hands-on learning through real projects<br>
-   Collaboration and open source contribution
-
+  
 </p>
+  <strong>What we’re about:</strong><br>
+  
+  - Creative thinking and bold ideas
+  - Experimentation with new technologies
+  - Hands-on learning through real projects
+  - Collaboration and open source contribution
 
 ---
