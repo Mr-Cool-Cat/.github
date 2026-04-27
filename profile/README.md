@@ -27,7 +27,7 @@
 <p>
   <img src="./assets/ChatGPT Image Apr 27, 2026, 01_49_59 PM.png" 
        align="left" 
-       width="250"
+       width="150"
        style="margin-right:15px; border-radius:12px;" />
 </p>
 
