@@ -4,7 +4,7 @@
     <h1>Mr Cool Cats Organization</h1>
   </div>
 
-  <img src="" alt="" style="max-width: 200px; height: auto;">
+  <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" alt="" style="max-width: 200px; height: auto;">
   
 </div>
 Welcome to **Mr Cool Cats** 🐾
