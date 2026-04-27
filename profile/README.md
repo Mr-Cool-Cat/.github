@@ -3,7 +3,7 @@
 <p align="justify">
   <img src="./assets/Cat.gif" 
        align="right" 
-       width="250"
+       width="200"
        style="margin-left:15px; border-radius:12px;" />
 
   Welcome to <strong>Mr Cool Cats</strong>, a developer-focused organization building <strong>creative, fun, and experimental software projects</strong>.
