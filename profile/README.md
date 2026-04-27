@@ -25,10 +25,10 @@
 
 | Project | Description | Link |
 |-----------|------------------|------------|
-| Mr-Cool-Cat-Code-Editor | Browser-based code editor project | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Cat-Code-Editor) |
-| Mr-Cool-Voting-Website | Interactive voting / polling web application | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Voting-Website) |
-| Mr-Cool-Website | Main website project for the organization | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Website) |
-| Mr-Cool-Blog | Blogging platform / content-based site | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Blog) |
-| Mr-Cool-Media | Media-related project (images, assets, or player) | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Media) |
+|    Mr Cool Cat Code Editor | Browser-based code editor project | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Cat-Code-Editor) |
+|    Mr Cool Voting Website | Interactive voting / polling web application | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Voting-Website) |
+|    Mr Cool Website | Main website project for the organization | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Website) |
+|    Mr-Cool Blog | Blogging platform / content-based site | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Blog) |
+|    Mr Cool Media | Media-related project (images, assets, or player) | [View Repo](https://github.com/Mr-Cool-Cat/Mr-Cool-Media) |
 
 ---
