@@ -3,7 +3,8 @@
 <p align="justify">
   <img src="./assets/ChatGPT Image Apr 27, 2026, 02_28_11 PM.png" 
        align="right" 
-       width="250" 
+       width="150"
+       height="150"
        style="margin-left:15px; border-radius:12px;" 
   />
 
