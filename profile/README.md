@@ -71,4 +71,5 @@
 
 <br clear="both"/>
 
+![Mr Cool Cats Contributor](https://img.shields.io/badge/MrCoolCats-Contributor-blue?style=for-the-badge)
 ---
